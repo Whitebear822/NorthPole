@@ -4,5 +4,3 @@ def recurs(count):
         return
     recurs(count + 1)
     print(count)
-
-recurs(0)
