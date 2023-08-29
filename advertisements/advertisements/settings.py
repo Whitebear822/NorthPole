@@ -82,7 +82,7 @@ DATABASES = {
     },
     'second': {
         'ENGINE': 'django.db.backands.postgresql_psycopg2',
-        'NAME': 'djangoproject'
+        'NAME': 'djangoproject',
     }
 }
 
